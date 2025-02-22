@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bmi-vm</string>
+    <string name="bmi_cal">Bmi Calculator</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="result">Your bmi is</string>
+</resources>
